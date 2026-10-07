@@ -1,3 +1,5 @@
+> **Disclaimer:** All data in this repository is simulated. It is used only to demonstrate the modelling approach and the work performed, and it is not real company data.
+
 # Birthday Ordering AI Agent
 
 **An AI agent that books ice cream trikes for birthday parties through chat, checks real constraints with tools, and routes every confirmed order to the teams that deliver it.**
