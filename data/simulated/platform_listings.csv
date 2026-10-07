@@ -1,0 +1,1725 @@
+account_id,sku_id,listed_name,listed_price_pkr,image,visible
+ACC002,SKU011,ButterscotchCup,94,images/sku011.png,True
+ACC002,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC002,SKU007,Vanilla Cup,64,,True
+ACC002,SKU024,CHOCOLATE SANDWICH,106,images/sku024.png,True
+ACC002,SKU023,VanillaSandwich,105,images/sku023.png,True
+ACC002,SKU021,Neapolitan1.5Liter,648,images/sku021.png,False
+ACC002,SKU001,Chocolate Cone,105,placeholder.png,True
+ACC002,SKU017,Berry Lolly,56,placeholder.png,False
+ACC002,SKU015,Kulfi,63,,True
+ACC002,SKU010,COOKIES AND CREAM CUP,125,placeholder.png,True
+ACC002,SKU006,MintCone,115,images/sku006.png,False
+ACC002,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC002,SKU016,ALMOND BAR,62,images/sku016.png,True
+ACC002,SKU019,Chocolate 1 Liter,572,placeholder.png,True
+ACC002,SKU014,Chocolate Bar,68,placeholder.png,True
+ACC002,SKU009,Mango Cup,106,images/sku009.png,True
+ACC002,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC002,SKU003,VANILLA CONE,110,placeholder.png,False
+ACC003,SKU019,Chocolate 1 Liter,572,images/sku019.png,True
+ACC003,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC003,SKU023,Vanilla Sandwich,94,placeholder.png,True
+ACC003,SKU021,Neapolitan1.5Liter,720,images/sku021.png,False
+ACC003,SKU015,Kulfi,70,images/sku015.png,False
+ACC003,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC003,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC003,SKU006,Mint Cone,115,images/sku006.png,True
+ACC003,SKU007,Vanilla Cup,64,images/sku007.png,True
+ACC003,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC003,SKU005,Pistachio Cone,135,,True
+ACC003,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC004,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,False
+ACC004,SKU015,Kulfi,70,images/sku015.png,True
+ACC004,SKU009,Mango Cup,85,images/sku009.png,False
+ACC004,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC004,SKU024,Chocolate Sandwich,85,,True
+ACC004,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC004,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC004,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC004,SKU016,Almond Bar,45,images/sku016.png,True
+ACC004,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC004,SKU006,Mint Cone,115,images/sku006.png,True
+ACC004,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC004,SKU014,Chocolate Bar,49,images/sku014.png,True
+ACC004,SKU017,Berry Lolly,56,images/sku017.png,True
+ACC004,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC004,SKU022,Praline1Liter,705,images/sku022.png,True
+ACC005,SKU019,CHOCOLATE 1 LITER,786,,True
+ACC005,SKU014,Chocolate Bar,55,,True
+ACC005,SKU015,KULFI,70,,True
+ACC005,SKU017,BerryLolly,63,placeholder.png,True
+ACC005,SKU023,Vanilla Sandwich,131,,True
+ACC005,SKU008,ChocolateCup,106,images/sku008.png,True
+ACC005,SKU007,Vanilla Cup,72,,True
+ACC005,SKU021,Neapolitan1.5Liter,576,placeholder.png,False
+ACC005,SKU006,MINT CONE,126,images/sku006.png,True
+ACC005,SKU010,Cookies and Cream Cup,100,,True
+ACC005,SKU016,AlmondBar,62,images/sku016.png,True
+ACC005,SKU001,ChocolateCone,115,images/sku001.png,False
+ACC005,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC005,SKU005,PistachioCone,168,images/sku005.png,True
+ACC005,SKU022,Praline 1 Liter,564,images/sku022.png,True
+ACC005,SKU002,StrawberryCone,94,images/sku002.png,False
+ACC005,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC006,SKU006,Mint Cone,92,,True
+ACC006,SKU009,Mango Cup,93,images/sku009.png,True
+ACC006,SKU015,Kulfi,87,,True
+ACC006,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC006,SKU014,Chocolate Bar,55,images/sku014.png,False
+ACC006,SKU024,ChocolateSandwich,93,images/sku024.png,True
+ACC006,SKU019,CHOCOLATE 1 LITER,643,images/sku019.png,True
+ACC006,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC006,SKU016,Almond Bar,40,placeholder.png,True
+ACC006,SKU010,COOKIES AND CREAM CUP,100,placeholder.png,True
+ACC006,SKU017,BerryLolly,63,images/sku017.png,True
+ACC006,SKU007,Vanilla Cup,100,images/sku007.png,True
+ACC006,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC006,SKU008,Chocolate Cup,68,placeholder.png,False
+ACC006,SKU020,MANGO 1 LITER,568,images/sku020.png,True
+ACC006,SKU003,Vanilla Cone,88,,True
+ACC006,SKU013,OrangeLolly,77,images/sku013.png,True
+ACC008,SKU023,VanillaSandwich,105,images/sku023.png,True
+ACC008,SKU011,BUTTERSCOTCH CUP,94,images/sku011.png,True
+ACC008,SKU020,Mango 1 Liter,710,placeholder.png,True
+ACC008,SKU016,ALMOND BAR,55,images/sku016.png,True
+ACC008,SKU017,Berry Lolly,77,,True
+ACC008,SKU008,Chocolate Cup,85,,True
+ACC008,SKU010,Cookies and Cream Cup,110,placeholder.png,False
+ACC008,SKU019,Chocolate 1 Liter,786,placeholder.png,True
+ACC008,SKU012,Mango Lolly,62,images/sku012.png,False
+ACC008,SKU009,MangoCup,106,placeholder.png,True
+ACC008,SKU024,CHOCOLATE SANDWICH,85,images/sku024.png,True
+ACC008,SKU015,Kulfi,70,images/sku015.png,True
+ACC008,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC008,SKU001,Chocolate Cone,105,placeholder.png,False
+ACC008,SKU007,VANILLA CUP,80,images/sku007.png,False
+ACC008,SKU003,Vanilla Cone,121,placeholder.png,False
+ACC011,SKU016,Almond Bar,50,images/sku016.png,True
+ACC011,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC011,SKU009,Mango Cup,85,images/sku009.png,True
+ACC011,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC011,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC011,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC011,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC011,SKU006,Mint Cone,115,images/sku006.png,True
+ACC011,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC011,SKU024,Chocolate Sandwich,85,images/sku024.png,False
+ACC011,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC011,SKU013,Orange Lolly,70,images/sku013.png,True
+ACC012,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC012,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC012,SKU007,Vanilla Cup,80,,True
+ACC012,SKU009,MangoCup,106,images/sku009.png,True
+ACC012,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,False
+ACC012,SKU015,Kulfi,70,,True
+ACC012,SKU006,Mint Cone,115,images/sku006.png,True
+ACC012,SKU024,Chocolate Sandwich,68,,True
+ACC012,SKU023,Vanilla Sandwich,84,images/sku023.png,True
+ACC012,SKU001,Chocolate Cone,94,,True
+ACC012,SKU017,Berry Lolly,77,images/sku017.png,True
+ACC012,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC012,SKU016,Almond Bar,62,images/sku016.png,True
+ACC012,SKU008,CHOCOLATE CUP,68,,True
+ACC012,SKU022,Praline 1 Liter,705,,True
+ACC013,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC013,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC013,SKU006,Mint Cone,115,images/sku006.png,True
+ACC013,SKU009,Mango Cup,85,images/sku009.png,True
+ACC013,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC013,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC013,SKU016,Almond Bar,50,images/sku016.png,True
+ACC013,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC013,SKU019,Chocolate 1 Liter,572,images/sku019.png,True
+ACC013,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC013,SKU008,Chocolate Cup,93,images/sku008.png,True
+ACC013,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC014,SKU009,Mango Cup,85,images/sku009.png,True
+ACC014,SKU023,Vanilla Sandwich,105,images/sku023.png,False
+ACC014,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC014,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC014,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC014,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC014,SKU011,Butterscotch Cup,131,images/sku011.png,True
+ACC014,SKU020,Mango 1 Liter,639,images/sku020.png,True
+ACC014,SKU007,Vanilla Cup,80,placeholder.png,True
+ACC014,SKU016,Almond Bar,40,images/sku016.png,True
+ACC014,SKU008,Chocolate Cup,106,images/sku008.png,True
+ACC014,SKU015,Kulfi,70,images/sku015.png,True
+ACC014,SKU006,Mint Cone,115,images/sku006.png,True
+ACC014,SKU019,CHOCOLATE 1 LITER,715,images/sku019.png,False
+ACC014,SKU024,CHOCOLATE SANDWICH,85,images/sku024.png,True
+ACC014,SKU010,CookiesandCreamCup,100,images/sku010.png,True
+ACC017,SKU007,Vanilla Cup,80,placeholder.png,False
+ACC017,SKU008,Chocolate Cup,93,images/sku008.png,True
+ACC017,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC017,SKU011,Butterscotch Cup,131,images/sku011.png,True
+ACC017,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC017,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC017,SKU023,Vanilla Sandwich,131,images/sku023.png,True
+ACC017,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC017,SKU017,Berry Lolly,70,,True
+ACC017,SKU006,Mint Cone,115,,True
+ACC017,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC021,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC021,SKU009,Mango Cup,85,images/sku009.png,True
+ACC021,SKU015,Kulfi,70,images/sku015.png,True
+ACC021,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC021,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC021,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC021,SKU016,Almond Bar,50,images/sku016.png,True
+ACC021,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC021,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC021,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC021,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC021,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC023,SKU008,Chocolate Cup,68,images/sku008.png,True
+ACC023,SKU016,Almond Bar,50,images/sku016.png,True
+ACC023,SKU009,Mango Cup,85,images/sku009.png,True
+ACC023,SKU015,Kulfi,87,images/sku015.png,True
+ACC023,SKU024,Chocolate Sandwich,106,images/sku024.png,True
+ACC023,SKU006,Mint Cone,92,images/sku006.png,True
+ACC023,SKU012,Mango Lolly,55,images/sku012.png,True
+ACC023,SKU021,Neapolitan 1.5 Liter,720,placeholder.png,True
+ACC023,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC023,SKU007,Vanilla Cup,80,images/sku007.png,False
+ACC023,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC025,SKU020,Mango 1 Liter,710,placeholder.png,True
+ACC025,SKU006,Mint Cone,126,images/sku006.png,True
+ACC025,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC025,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC025,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC025,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC025,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC025,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC025,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC025,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC025,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC025,SKU015,Kulfi,56,images/sku015.png,False
+ACC025,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC025,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC025,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC025,SKU009,Mango Cup,85,images/sku009.png,True
+ACC025,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC025,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC030,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC030,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC030,SKU015,Kulfi,70,images/sku015.png,True
+ACC030,SKU006,Mint Cone,115,images/sku006.png,True
+ACC030,SKU016,Almond Bar,40,images/sku016.png,True
+ACC030,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC030,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC030,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC030,SKU009,Mango Cup,85,images/sku009.png,True
+ACC030,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC030,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC030,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC030,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC030,SKU003,Vanilla Cone,88,images/sku003.png,True
+ACC032,SKU019,Chocolate 1 Liter,715,,True
+ACC032,SKU007,VanillaCup,88,images/sku007.png,False
+ACC032,SKU014,Chocolate Bar,55,placeholder.png,False
+ACC032,SKU017,BerryLolly,70,images/sku017.png,True
+ACC032,SKU009,Mango Cup,68,,False
+ACC032,SKU010,Cookies and Cream Cup,100,images/sku010.png,False
+ACC032,SKU015,Kulfi,87,placeholder.png,False
+ACC032,SKU012,Mango Lolly,40,images/sku012.png,False
+ACC032,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC032,SKU016,ALMOND BAR,50,,True
+ACC032,SKU023,Vanilla Sandwich,84,,True
+ACC032,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC032,SKU006,Mint Cone,115,,True
+ACC032,SKU004,CARAMEL CONE,120,placeholder.png,True
+ACC032,SKU002,Strawberry Cone,105,placeholder.png,True
+ACC033,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC033,SKU024,ChocolateSandwich,68,images/sku024.png,True
+ACC033,SKU008,Chocolate Cup,93,images/sku008.png,True
+ACC033,SKU020,Mango 1 Liter,887,placeholder.png,False
+ACC033,SKU009,MangoCup,85,images/sku009.png,True
+ACC033,SKU014,CHOCOLATE BAR,68,,True
+ACC033,SKU021,NEAPOLITAN 1.5 LITER,720,placeholder.png,False
+ACC033,SKU017,BERRY LOLLY,70,images/sku017.png,True
+ACC033,SKU015,Kulfi,70,images/sku015.png,True
+ACC033,SKU023,Vanilla Sandwich,94,placeholder.png,True
+ACC033,SKU006,MintCone,92,images/sku006.png,True
+ACC033,SKU012,Mango Lolly,55,images/sku012.png,True
+ACC033,SKU011,Butterscotch Cup,105,images/sku011.png,False
+ACC033,SKU016,Almond Bar,50,images/sku016.png,True
+ACC033,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC033,SKU002,Strawberry Cone,105,,True
+ACC033,SKU003,VANILLA CONE,88,images/sku003.png,True
+ACC033,SKU018,Vanilla 1 Liter,556,,True
+ACC034,SKU021,Neapolitan 1.5 Liter,720,placeholder.png,True
+ACC034,SKU010,Cookies and Cream Cup,80,,True
+ACC034,SKU006,MINT CONE,115,images/sku006.png,True
+ACC034,SKU012,Mango Lolly,50,placeholder.png,True
+ACC034,SKU011,Butterscotch Cup,105,,True
+ACC034,SKU024,CHOCOLATE SANDWICH,85,images/sku024.png,False
+ACC034,SKU016,Almond Bar,50,placeholder.png,True
+ACC034,SKU020,Mango 1 Liter,710,,True
+ACC034,SKU007,VanillaCup,80,images/sku007.png,False
+ACC034,SKU023,VanillaSandwich,94,images/sku023.png,True
+ACC034,SKU009,Mango Cup,85,images/sku009.png,False
+ACC034,SKU017,Berry Lolly,56,images/sku017.png,False
+ACC034,SKU008,Chocolate Cup,93,placeholder.png,False
+ACC034,SKU022,PRALINE 1 LITER,881,images/sku022.png,True
+ACC034,SKU013,Orange Lolly,87,placeholder.png,False
+ACC034,SKU003,Vanilla Cone,137,placeholder.png,True
+ACC036,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC036,SKU006,Mint Cone,115,images/sku006.png,True
+ACC036,SKU024,Chocolate Sandwich,76,images/sku024.png,False
+ACC036,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC036,SKU023,Vanilla Sandwich,94,images/sku023.png,True
+ACC036,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC036,SKU017,Berry Lolly,63,images/sku017.png,True
+ACC036,SKU007,Vanilla Cup,72,placeholder.png,True
+ACC036,SKU015,Kulfi,70,images/sku015.png,True
+ACC036,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC036,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC036,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC036,SKU016,ALMOND BAR,50,images/sku016.png,False
+ACC036,SKU019,Chocolate 1 Liter,786,images/sku019.png,True
+ACC036,SKU009,Mango Cup,68,images/sku009.png,True
+ACC036,SKU021,Neapolitan1.5Liter,720,images/sku021.png,True
+ACC036,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC037,SKU007,VANILLA CUP,64,images/sku007.png,True
+ACC037,SKU021,Neapolitan1.5Liter,576,placeholder.png,True
+ACC037,SKU015,Kulfi,87,,True
+ACC037,SKU009,Mango Cup,85,images/sku009.png,True
+ACC037,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC037,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC037,SKU010,Cookies and Cream Cup,125,,True
+ACC037,SKU012,MANGO LOLLY,50,,False
+ACC037,SKU001,ChocolateCone,94,,False
+ACC037,SKU011,ButterscotchCup,84,,False
+ACC037,SKU006,Mint Cone,115,images/sku006.png,True
+ACC037,SKU017,BERRY LOLLY,56,placeholder.png,True
+ACC037,SKU024,Chocolate Sandwich,106,images/sku024.png,True
+ACC037,SKU016,Almond Bar,55,,True
+ACC037,SKU014,CHOCOLATE BAR,55,images/sku014.png,True
+ACC037,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC037,SKU022,Praline1Liter,775,images/sku022.png,True
+ACC037,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC038,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC038,SKU023,Vanilla Sandwich,84,,True
+ACC038,SKU001,Chocolate Cone,131,images/sku001.png,False
+ACC038,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC038,SKU024,Chocolate Sandwich,85,,True
+ACC038,SKU008,Chocolate Cup,85,images/sku008.png,False
+ACC038,SKU010,Cookies and Cream Cup,100,placeholder.png,True
+ACC038,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC038,SKU006,MintCone,92,images/sku006.png,True
+ACC038,SKU015,Kulfi,87,placeholder.png,True
+ACC038,SKU009,Mango Cup,106,images/sku009.png,False
+ACC038,SKU020,Mango 1 Liter,639,,True
+ACC038,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC038,SKU011,Butterscotch Cup,105,placeholder.png,True
+ACC038,SKU007,VanillaCup,72,images/sku007.png,True
+ACC038,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC038,SKU013,Orange Lolly,77,images/sku013.png,True
+ACC041,SKU015,Kulfi,70,images/sku015.png,True
+ACC041,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC041,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC041,SKU016,Almond Bar,50,images/sku016.png,False
+ACC041,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC041,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC041,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC041,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC041,SKU006,Mint Cone,115,images/sku006.png,True
+ACC041,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC041,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC041,SKU009,Mango Cup,85,images/sku009.png,True
+ACC041,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC047,SKU009,Mango Cup,85,images/sku009.png,True
+ACC047,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC047,SKU007,Vanilla Cup,80,images/sku007.png,False
+ACC047,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC047,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC047,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC047,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC047,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC047,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC047,SKU006,Mint Cone,115,images/sku006.png,True
+ACC047,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC047,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC047,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC047,SKU016,Almond Bar,50,images/sku016.png,True
+ACC047,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC047,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC047,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC048,SKU007,Vanilla Cup,100,images/sku007.png,True
+ACC048,SKU010,Cookies and Cream Cup,125,images/sku010.png,True
+ACC048,SKU016,AlmondBar,45,,True
+ACC048,SKU009,MANGO CUP,68,images/sku009.png,True
+ACC048,SKU012,Mango Lolly,50,images/sku012.png,False
+ACC048,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC048,SKU014,Chocolate Bar,55,images/sku014.png,False
+ACC048,SKU008,Chocolate Cup,106,images/sku008.png,True
+ACC048,SKU011,ButterscotchCup,105,,False
+ACC048,SKU017,Berry Lolly,70,placeholder.png,True
+ACC048,SKU006,Mint Cone,92,images/sku006.png,True
+ACC048,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC048,SKU003,Vanilla Cone,121,,True
+ACC052,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC052,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC052,SKU020,Mango 1 Liter,710,images/sku020.png,False
+ACC052,SKU016,Almond Bar,55,images/sku016.png,False
+ACC052,SKU001,CHOCOLATE CONE,105,,True
+ACC052,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC052,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC052,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC052,SKU006,MintCone,115,images/sku006.png,True
+ACC052,SKU015,Kulfi,77,images/sku015.png,True
+ACC052,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC052,SKU024,Chocolate Sandwich,68,images/sku024.png,False
+ACC052,SKU021,NEAPOLITAN 1.5 LITER,576,images/sku021.png,True
+ACC052,SKU018,Vanilla 1 Liter,625,images/sku018.png,True
+ACC052,SKU003,Vanilla Cone,99,images/sku003.png,True
+ACC053,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC053,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC053,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC053,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC053,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC053,SKU010,Cookies and Cream Cup,110,images/sku010.png,True
+ACC053,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC053,SKU007,Vanilla Cup,72,images/sku007.png,True
+ACC053,SKU009,Mango Cup,85,images/sku009.png,True
+ACC053,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC053,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC053,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC053,SKU016,Almond Bar,50,images/sku016.png,True
+ACC053,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC055,SKU015,Kulfi,63,,True
+ACC055,SKU009,Mango Cup,76,images/sku009.png,True
+ACC055,SKU016,Almond Bar,40,images/sku016.png,True
+ACC055,SKU010,Cookies and Cream Cup,100,placeholder.png,False
+ACC055,SKU019,Chocolate 1 Liter,893,placeholder.png,True
+ACC055,SKU023,VanillaSandwich,84,images/sku023.png,False
+ACC055,SKU020,MANGO 1 LITER,887,images/sku020.png,False
+ACC055,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC055,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC055,SKU017,Berry Lolly,70,placeholder.png,True
+ACC055,SKU006,MINT CONE,126,placeholder.png,True
+ACC055,SKU014,Chocolate Bar,55,,False
+ACC055,SKU001,Chocolate Cone,84,placeholder.png,True
+ACC055,SKU007,VANILLA CUP,80,,True
+ACC055,SKU008,ChocolateCup,76,,False
+ACC055,SKU013,Orange Lolly,56,images/sku013.png,False
+ACC056,SKU009,MANGO CUP,76,images/sku009.png,True
+ACC056,SKU015,KULFI,63,images/sku015.png,False
+ACC056,SKU010,Cookies and Cream Cup,100,placeholder.png,False
+ACC056,SKU023,VANILLA SANDWICH,94,images/sku023.png,True
+ACC056,SKU012,Mango Lolly,50,,True
+ACC056,SKU024,CHOCOLATE SANDWICH,85,,True
+ACC056,SKU014,Chocolate Bar,60,placeholder.png,True
+ACC056,SKU017,BERRY LOLLY,70,,True
+ACC056,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC056,SKU016,Almond Bar,62,images/sku016.png,True
+ACC056,SKU007,VANILLA CUP,72,images/sku007.png,True
+ACC056,SKU021,Neapolitan 1.5 Liter,648,images/sku021.png,True
+ACC056,SKU020,Mango 1 Liter,887,images/sku020.png,False
+ACC056,SKU003,VANILLA CONE,110,images/sku003.png,False
+ACC056,SKU013,Orange Lolly,87,images/sku013.png,True
+ACC058,SKU015,Kulfi,77,images/sku015.png,False
+ACC058,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC058,SKU011,Butterscotch Cup,105,,True
+ACC058,SKU019,Chocolate1Liter,715,images/sku019.png,True
+ACC058,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC058,SKU014,ChocolateBar,68,placeholder.png,True
+ACC058,SKU017,BERRY LOLLY,77,images/sku017.png,True
+ACC058,SKU010,COOKIES AND CREAM CUP,90,placeholder.png,True
+ACC058,SKU021,NEAPOLITAN 1.5 LITER,720,,True
+ACC058,SKU006,Mint Cone,126,images/sku006.png,True
+ACC058,SKU002,Strawberry Cone,84,images/sku002.png,False
+ACC058,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC062,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC062,SKU009,Mango Cup,85,images/sku009.png,True
+ACC062,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC062,SKU012,Mango Lolly,40,images/sku012.png,True
+ACC062,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC062,SKU010,Cookies and Cream Cup,90,images/sku010.png,True
+ACC062,SKU006,Mint Cone,115,images/sku006.png,True
+ACC062,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC062,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC062,SKU020,Mango 1 Liter,887,images/sku020.png,True
+ACC062,SKU016,Almond Bar,50,images/sku016.png,True
+ACC062,SKU015,Kulfi,70,images/sku015.png,True
+ACC062,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC062,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC062,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC062,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC065,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC065,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC065,SKU011,ButterscotchCup,94,images/sku011.png,True
+ACC065,SKU021,Neapolitan 1.5 Liter,720,,True
+ACC065,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC065,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC065,SKU016,Almond Bar,50,images/sku016.png,True
+ACC065,SKU015,Kulfi,70,images/sku015.png,True
+ACC065,SKU009,Mango Cup,68,images/sku009.png,False
+ACC065,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC065,SKU020,MANGO 1 LITER,710,images/sku020.png,True
+ACC065,SKU008,Chocolate Cup,85,,True
+ACC065,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC065,SKU024,Chocolate Sandwich,106,images/sku024.png,False
+ACC065,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC065,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC065,SKU006,Mint Cone,115,images/sku006.png,True
+ACC065,SKU022,Praline 1 Liter,775,images/sku022.png,True
+ACC068,SKU016,Almond Bar,50,images/sku016.png,False
+ACC068,SKU017,Berry Lolly,63,images/sku017.png,True
+ACC068,SKU006,Mint Cone,115,images/sku006.png,True
+ACC068,SKU009,MANGO CUP,93,images/sku009.png,False
+ACC068,SKU024,Chocolate Sandwich,93,images/sku024.png,False
+ACC068,SKU001,CHOCOLATE CONE,115,images/sku001.png,False
+ACC068,SKU015,Kulfi,70,placeholder.png,True
+ACC068,SKU019,Chocolate 1 Liter,786,placeholder.png,True
+ACC068,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC068,SKU011,BUTTERSCOTCH CUP,94,placeholder.png,True
+ACC068,SKU007,VANILLA CUP,64,placeholder.png,True
+ACC068,SKU008,ChocolateCup,85,images/sku008.png,True
+ACC068,SKU023,VANILLA SANDWICH,131,placeholder.png,False
+ACC068,SKU012,Mango Lolly,55,images/sku012.png,True
+ACC068,SKU021,Neapolitan1.5Liter,792,images/sku021.png,True
+ACC068,SKU005,PistachioCone,168,images/sku005.png,True
+ACC068,SKU018,Vanilla 1 Liter,764,,True
+ACC068,SKU004,CARAMEL CONE,96,placeholder.png,False
+ACC069,SKU010,Cookies and Cream Cup,125,images/sku010.png,True
+ACC069,SKU006,Mint Cone,115,images/sku006.png,True
+ACC069,SKU021,Neapolitan 1.5 Liter,720,,True
+ACC069,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC069,SKU001,CHOCOLATE CONE,105,images/sku001.png,True
+ACC069,SKU009,MANGO CUP,85,images/sku009.png,True
+ACC069,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC069,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC069,SKU007,VANILLA CUP,72,images/sku007.png,True
+ACC069,SKU014,CHOCOLATE BAR,60,images/sku014.png,True
+ACC069,SKU019,Chocolate 1 Liter,715,placeholder.png,True
+ACC069,SKU016,ALMOND BAR,50,images/sku016.png,True
+ACC069,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC069,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC073,SKU010,Cookies and Cream Cup,90,,True
+ACC073,SKU021,Neapolitan 1.5 Liter,648,images/sku021.png,True
+ACC073,SKU014,Chocolate Bar,68,placeholder.png,False
+ACC073,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC073,SKU016,Almond Bar,50,,True
+ACC073,SKU008,Chocolate Cup,85,,True
+ACC073,SKU012,MangoLolly,50,,True
+ACC073,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC073,SKU015,Kulfi,63,images/sku015.png,False
+ACC073,SKU009,Mango Cup,68,images/sku009.png,True
+ACC073,SKU011,Butterscotch Cup,105,images/sku011.png,False
+ACC073,SKU001,Chocolate Cone,105,images/sku001.png,False
+ACC074,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC074,SKU016,Almond Bar,50,images/sku016.png,True
+ACC074,SKU010,Cookies and Cream Cup,100,placeholder.png,False
+ACC074,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC074,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,True
+ACC074,SKU006,MINT CONE,115,images/sku006.png,False
+ACC074,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC074,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC074,SKU009,MANGO CUP,93,,True
+ACC074,SKU017,BerryLolly,87,images/sku017.png,True
+ACC074,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC074,SKU011,BUTTERSCOTCH CUP,105,images/sku011.png,True
+ACC074,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC076,SKU020,Mango 1 Liter,710,placeholder.png,False
+ACC076,SKU007,Vanilla Cup,80,,True
+ACC076,SKU012,Mango Lolly,40,images/sku012.png,True
+ACC076,SKU006,Mint Cone,115,,True
+ACC076,SKU015,Kulfi,70,images/sku015.png,False
+ACC076,SKU009,Mango Cup,76,images/sku009.png,True
+ACC076,SKU017,Berry Lolly,77,images/sku017.png,True
+ACC076,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC076,SKU021,Neapolitan1.5Liter,576,images/sku021.png,False
+ACC076,SKU024,Chocolate Sandwich,85,images/sku024.png,False
+ACC076,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC076,SKU019,CHOCOLATE 1 LITER,715,images/sku019.png,False
+ACC076,SKU010,Cookies and Cream Cup,100,placeholder.png,True
+ACC076,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC076,SKU014,Chocolate Bar,55,placeholder.png,False
+ACC076,SKU013,Orange Lolly,63,images/sku013.png,True
+ACC076,SKU003,Vanilla Cone,121,images/sku003.png,False
+ACC076,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC081,SKU008,CHOCOLATE CUP,106,placeholder.png,True
+ACC081,SKU019,Chocolate1Liter,893,images/sku019.png,True
+ACC081,SKU010,COOKIES AND CREAM CUP,80,images/sku010.png,False
+ACC081,SKU016,Almond Bar,55,images/sku016.png,True
+ACC081,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC081,SKU007,Vanilla Cup,64,images/sku007.png,False
+ACC081,SKU023,VANILLA SANDWICH,105,,True
+ACC081,SKU012,MANGO LOLLY,50,images/sku012.png,True
+ACC081,SKU021,Neapolitan 1.5 Liter,576,,True
+ACC081,SKU015,KULFI,77,images/sku015.png,False
+ACC081,SKU011,ButterscotchCup,84,images/sku011.png,False
+ACC081,SKU020,Mango1Liter,710,placeholder.png,True
+ACC081,SKU014,ChocolateBar,55,images/sku014.png,False
+ACC081,SKU004,CARAMEL CONE,150,,True
+ACC083,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC083,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC083,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC083,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC083,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC083,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC083,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC083,SKU015,Kulfi,70,images/sku015.png,True
+ACC083,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC083,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC083,SKU016,Almond Bar,50,images/sku016.png,True
+ACC083,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC083,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC083,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC085,SKU007,VANILLA CUP,72,images/sku007.png,True
+ACC085,SKU009,Mango Cup,85,,True
+ACC085,SKU023,Vanilla Sandwich,105,,False
+ACC085,SKU014,Chocolate Bar,60,images/sku014.png,False
+ACC085,SKU021,NEAPOLITAN 1.5 LITER,900,images/sku021.png,False
+ACC085,SKU017,BerryLolly,63,placeholder.png,False
+ACC085,SKU016,ALMOND BAR,50,placeholder.png,True
+ACC085,SKU012,Mango Lolly,40,,True
+ACC085,SKU010,CookiesandCreamCup,80,,True
+ACC085,SKU001,Chocolate Cone,94,,True
+ACC085,SKU008,Chocolate Cup,85,images/sku008.png,False
+ACC085,SKU015,KULFI,70,images/sku015.png,False
+ACC085,SKU006,MINT CONE,92,images/sku006.png,True
+ACC085,SKU011,ButterscotchCup,115,,True
+ACC086,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC086,SKU010,COOKIES AND CREAM CUP,110,placeholder.png,True
+ACC086,SKU015,Kulfi,77,placeholder.png,True
+ACC086,SKU017,BERRY LOLLY,77,placeholder.png,True
+ACC086,SKU014,Chocolate Bar,44,images/sku014.png,False
+ACC086,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC086,SKU009,Mango Cup,85,images/sku009.png,True
+ACC086,SKU021,Neapolitan1.5Liter,576,images/sku021.png,False
+ACC086,SKU016,Almond Bar,62,placeholder.png,False
+ACC086,SKU012,MANGO LOLLY,62,placeholder.png,True
+ACC086,SKU011,BUTTERSCOTCH CUP,94,images/sku011.png,False
+ACC086,SKU020,Mango 1 Liter,781,images/sku020.png,False
+ACC086,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC086,SKU007,Vanilla Cup,80,placeholder.png,True
+ACC086,SKU006,MINT CONE,143,placeholder.png,False
+ACC086,SKU005,PistachioCone,135,placeholder.png,True
+ACC086,SKU004,CaramelCone,108,,True
+ACC086,SKU013,OrangeLolly,63,images/sku013.png,True
+ACC086,SKU002,STRAWBERRY CONE,105,images/sku002.png,False
+ACC091,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC091,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC091,SKU016,Almond Bar,50,images/sku016.png,True
+ACC091,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC091,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC091,SKU009,Mango Cup,85,images/sku009.png,True
+ACC091,SKU008,Chocolate Cup,93,images/sku008.png,True
+ACC091,SKU015,Kulfi,70,images/sku015.png,True
+ACC091,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC091,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC091,SKU006,Mint Cone,115,images/sku006.png,True
+ACC091,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC091,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC091,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC091,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC093,SKU006,Mint Cone,115,images/sku006.png,True
+ACC093,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC093,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC093,SKU015,Kulfi,70,images/sku015.png,True
+ACC093,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC093,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC093,SKU011,Butterscotch Cup,115,images/sku011.png,True
+ACC093,SKU016,Almond Bar,50,images/sku016.png,True
+ACC093,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC093,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC093,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC093,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC093,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC093,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC093,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC093,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC094,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC094,SKU006,Mint Cone,103,images/sku006.png,True
+ACC094,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC094,SKU016,Almond Bar,50,images/sku016.png,True
+ACC094,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC094,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC094,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC094,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC094,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC094,SKU009,Mango Cup,85,images/sku009.png,True
+ACC094,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC094,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC094,SKU015,Kulfi,63,images/sku015.png,True
+ACC094,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC094,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC094,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC095,SKU019,CHOCOLATE 1 LITER,715,,True
+ACC095,SKU017,BerryLolly,77,images/sku017.png,True
+ACC095,SKU012,MANGO LOLLY,40,placeholder.png,True
+ACC095,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC095,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC095,SKU016,AlmondBar,40,images/sku016.png,True
+ACC095,SKU001,CHOCOLATE CONE,105,images/sku001.png,True
+ACC095,SKU020,Mango 1 Liter,781,placeholder.png,True
+ACC095,SKU010,Cookies and Cream Cup,80,placeholder.png,False
+ACC095,SKU006,MintCone,126,,False
+ACC095,SKU008,CHOCOLATE CUP,85,images/sku008.png,False
+ACC095,SKU004,CaramelCone,96,images/sku004.png,True
+ACC095,SKU022,Praline 1 Liter,881,images/sku022.png,True
+ACC095,SKU013,Orange Lolly,70,placeholder.png,True
+ACC095,SKU005,PISTACHIO CONE,148,,True
+ACC096,SKU012,Mango Lolly,62,,True
+ACC096,SKU011,Butterscotch Cup,105,,False
+ACC096,SKU007,VanillaCup,80,images/sku007.png,True
+ACC096,SKU020,Mango 1 Liter,781,images/sku020.png,True
+ACC096,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC096,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC096,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC096,SKU009,Mango Cup,93,images/sku009.png,True
+ACC096,SKU010,Cookies and Cream Cup,80,placeholder.png,True
+ACC096,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC096,SKU013,Orange Lolly,70,images/sku013.png,True
+ACC099,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC099,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC099,SKU015,Kulfi,70,images/sku015.png,True
+ACC099,SKU016,Almond Bar,50,images/sku016.png,True
+ACC099,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC099,SKU014,Chocolate Bar,60,images/sku014.png,True
+ACC099,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC099,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC099,SKU009,Mango Cup,76,images/sku009.png,True
+ACC099,SKU006,Mint Cone,115,images/sku006.png,True
+ACC099,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC099,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC099,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC099,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC101,SKU017,BERRY LOLLY,70,placeholder.png,True
+ACC101,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC101,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC101,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC101,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,True
+ACC101,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC101,SKU015,Kulfi,70,,True
+ACC101,SKU020,Mango1Liter,568,images/sku020.png,True
+ACC101,SKU016,AlmondBar,50,placeholder.png,True
+ACC101,SKU009,MANGO CUP,85,images/sku009.png,False
+ACC101,SKU012,Mango Lolly,62,images/sku012.png,True
+ACC101,SKU006,Mint Cone,115,,True
+ACC101,SKU008,Chocolate Cup,68,images/sku008.png,True
+ACC101,SKU010,Cookies and Cream Cup,100,,True
+ACC101,SKU018,VANILLA 1 LITER,695,images/sku018.png,True
+ACC103,SKU012,Mango Lolly,45,placeholder.png,False
+ACC103,SKU014,CHOCOLATE BAR,49,images/sku014.png,True
+ACC103,SKU024,CHOCOLATE SANDWICH,68,,True
+ACC103,SKU001,Chocolate Cone,84,,True
+ACC103,SKU006,Mint Cone,92,images/sku006.png,True
+ACC103,SKU023,Vanilla Sandwich,131,images/sku023.png,True
+ACC103,SKU008,ChocolateCup,106,images/sku008.png,True
+ACC103,SKU007,Vanilla Cup,64,images/sku007.png,True
+ACC103,SKU009,MangoCup,93,,True
+ACC103,SKU016,Almond Bar,45,images/sku016.png,True
+ACC103,SKU020,Mango 1 Liter,781,images/sku020.png,True
+ACC103,SKU010,CookiesandCreamCup,80,,True
+ACC103,SKU017,Berry Lolly,87,placeholder.png,True
+ACC103,SKU011,Butterscotch Cup,94,,True
+ACC103,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC103,SKU003,Vanilla Cone,110,images/sku003.png,False
+ACC105,SKU024,ChocolateSandwich,76,images/sku024.png,True
+ACC105,SKU007,Vanilla Cup,88,images/sku007.png,True
+ACC105,SKU023,Vanilla Sandwich,84,images/sku023.png,True
+ACC105,SKU021,Neapolitan 1.5 Liter,900,,True
+ACC105,SKU019,Chocolate 1 Liter,715,placeholder.png,True
+ACC105,SKU012,MANGO LOLLY,50,placeholder.png,True
+ACC105,SKU008,Chocolate Cup,93,images/sku008.png,False
+ACC105,SKU015,Kulfi,63,placeholder.png,True
+ACC105,SKU017,BerryLolly,56,,True
+ACC105,SKU006,MintCone,143,images/sku006.png,True
+ACC105,SKU020,Mango1Liter,710,images/sku020.png,False
+ACC105,SKU010,Cookies and Cream Cup,90,images/sku010.png,True
+ACC105,SKU001,Chocolate Cone,115,images/sku001.png,False
+ACC105,SKU014,ChocolateBar,49,images/sku014.png,False
+ACC105,SKU018,Vanilla1Liter,695,,False
+ACC105,SKU004,CARAMEL CONE,150,images/sku004.png,False
+ACC105,SKU002,StrawberryCone,84,images/sku002.png,False
+ACC106,SKU010,COOKIES AND CREAM CUP,90,,True
+ACC106,SKU021,Neapolitan1.5Liter,792,,True
+ACC106,SKU020,MANGO 1 LITER,639,images/sku020.png,True
+ACC106,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC106,SKU015,Kulfi,70,images/sku015.png,False
+ACC106,SKU017,BerryLolly,87,images/sku017.png,True
+ACC106,SKU007,VanillaCup,80,,True
+ACC106,SKU006,Mint Cone,126,images/sku006.png,True
+ACC106,SKU001,ChocolateCone,105,,False
+ACC106,SKU009,MANGO CUP,85,images/sku009.png,True
+ACC106,SKU011,Butterscotch Cup,84,,True
+ACC106,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC106,SKU003,VANILLA CONE,110,placeholder.png,True
+ACC108,SKU007,Vanilla Cup,64,,False
+ACC108,SKU019,Chocolate 1 Liter,715,,True
+ACC108,SKU014,ChocolateBar,55,placeholder.png,True
+ACC108,SKU017,BerryLolly,63,images/sku017.png,True
+ACC108,SKU006,Mint Cone,126,images/sku006.png,False
+ACC108,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC108,SKU020,Mango1Liter,887,images/sku020.png,True
+ACC108,SKU010,CookiesandCreamCup,100,,True
+ACC108,SKU009,Mango Cup,85,images/sku009.png,True
+ACC108,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC108,SKU001,Chocolate Cone,131,images/sku001.png,False
+ACC108,SKU012,Mango Lolly,40,placeholder.png,True
+ACC108,SKU022,Praline1Liter,881,images/sku022.png,True
+ACC108,SKU003,Vanilla Cone,88,images/sku003.png,True
+ACC110,SKU016,Almond Bar,50,,True
+ACC110,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC110,SKU009,Mango Cup,93,placeholder.png,True
+ACC110,SKU023,VANILLA SANDWICH,105,images/sku023.png,True
+ACC110,SKU007,VANILLA CUP,80,,False
+ACC110,SKU011,Butterscotch Cup,84,,False
+ACC110,SKU006,Mint Cone,126,placeholder.png,True
+ACC110,SKU012,Mango Lolly,50,placeholder.png,True
+ACC110,SKU014,ChocolateBar,68,images/sku014.png,True
+ACC110,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC110,SKU019,CHOCOLATE 1 LITER,715,placeholder.png,True
+ACC110,SKU024,Chocolate Sandwich,106,images/sku024.png,True
+ACC110,SKU021,Neapolitan 1.5 Liter,648,images/sku021.png,True
+ACC110,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC110,SKU015,Kulfi,56,placeholder.png,True
+ACC110,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC110,SKU018,Vanilla 1 Liter,764,images/sku018.png,True
+ACC110,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC110,SKU022,Praline 1 Liter,881,images/sku022.png,True
+ACC114,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC114,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC114,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,True
+ACC114,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC114,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC114,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC114,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC114,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC114,SKU016,Almond Bar,50,images/sku016.png,True
+ACC114,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC114,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC114,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC114,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC114,SKU015,Kulfi,70,images/sku015.png,False
+ACC114,SKU001,Chocolate Cone,94,images/sku001.png,True
+ACC116,SKU006,Mint Cone,115,images/sku006.png,True
+ACC116,SKU012,MANGO LOLLY,50,images/sku012.png,False
+ACC116,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC116,SKU015,Kulfi,70,,True
+ACC116,SKU024,Chocolate Sandwich,68,placeholder.png,True
+ACC116,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC116,SKU020,Mango1Liter,710,placeholder.png,True
+ACC116,SKU007,Vanilla Cup,100,images/sku007.png,True
+ACC116,SKU019,Chocolate 1 Liter,572,,True
+ACC116,SKU014,ChocolateBar,55,,True
+ACC116,SKU009,Mango Cup,85,images/sku009.png,True
+ACC116,SKU001,ChocolateCone,105,placeholder.png,False
+ACC116,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC116,SKU016,Almond Bar,62,,True
+ACC116,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC117,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC117,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC117,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC117,SKU016,Almond Bar,50,images/sku016.png,True
+ACC117,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC117,SKU019,Chocolate 1 Liter,572,images/sku019.png,True
+ACC117,SKU015,Kulfi,70,images/sku015.png,True
+ACC117,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC117,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC117,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC117,SKU021,Neapolitan 1.5 Liter,792,images/sku021.png,True
+ACC117,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC117,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC118,SKU017,BERRY LOLLY,87,images/sku017.png,True
+ACC118,SKU019,CHOCOLATE 1 LITER,786,,True
+ACC118,SKU021,Neapolitan 1.5 Liter,648,placeholder.png,True
+ACC118,SKU016,Almond Bar,62,,True
+ACC118,SKU023,Vanilla Sandwich,115,,True
+ACC118,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC118,SKU015,Kulfi,63,,True
+ACC118,SKU024,Chocolate Sandwich,106,images/sku024.png,False
+ACC118,SKU007,Vanilla Cup,100,images/sku007.png,True
+ACC118,SKU001,Chocolate Cone,131,,True
+ACC118,SKU010,CookiesandCreamCup,100,images/sku010.png,True
+ACC118,SKU020,Mango1Liter,710,images/sku020.png,True
+ACC118,SKU014,CHOCOLATE BAR,68,,True
+ACC118,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC118,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC118,SKU005,PISTACHIO CONE,108,images/sku005.png,True
+ACC118,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC118,SKU013,Orange Lolly,77,images/sku013.png,True
+ACC120,SKU019,Chocolate 1 Liter,893,,False
+ACC120,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC120,SKU006,Mint Cone,126,placeholder.png,False
+ACC120,SKU016,Almond Bar,50,placeholder.png,True
+ACC120,SKU017,Berry Lolly,77,images/sku017.png,False
+ACC120,SKU012,MangoLolly,50,placeholder.png,True
+ACC120,SKU001,Chocolate Cone,105,,False
+ACC120,SKU015,KULFI,77,,False
+ACC120,SKU020,Mango1Liter,568,images/sku020.png,False
+ACC120,SKU021,Neapolitan 1.5 Liter,648,images/sku021.png,True
+ACC120,SKU009,Mango Cup,85,images/sku009.png,False
+ACC120,SKU008,Chocolate Cup,93,,True
+ACC120,SKU011,Butterscotch Cup,105,placeholder.png,True
+ACC120,SKU007,VanillaCup,100,placeholder.png,True
+ACC120,SKU014,Chocolate Bar,68,placeholder.png,False
+ACC120,SKU023,Vanilla Sandwich,105,images/sku023.png,False
+ACC121,SKU006,Mint Cone,143,images/sku006.png,True
+ACC121,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC121,SKU009,Mango Cup,85,images/sku009.png,True
+ACC121,SKU019,Chocolate 1 Liter,893,images/sku019.png,True
+ACC121,SKU024,Chocolate Sandwich,93,images/sku024.png,True
+ACC121,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC121,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC121,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC121,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC121,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC121,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC121,SKU016,Almond Bar,50,images/sku016.png,True
+ACC121,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC121,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC121,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC121,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC123,SKU012,MANGO LOLLY,50,images/sku012.png,True
+ACC123,SKU023,VanillaSandwich,131,images/sku023.png,True
+ACC123,SKU015,Kulfi,70,images/sku015.png,True
+ACC123,SKU009,Mango Cup,85,images/sku009.png,True
+ACC123,SKU006,Mint Cone,115,images/sku006.png,False
+ACC123,SKU021,Neapolitan 1.5 Liter,648,images/sku021.png,True
+ACC123,SKU019,Chocolate 1 Liter,893,images/sku019.png,True
+ACC123,SKU001,CHOCOLATE CONE,105,images/sku001.png,False
+ACC123,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC123,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC123,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC123,SKU010,Cookies and Cream Cup,100,images/sku010.png,False
+ACC123,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC123,SKU020,Mango 1 Liter,781,images/sku020.png,True
+ACC123,SKU011,BUTTERSCOTCH CUP,105,images/sku011.png,True
+ACC123,SKU016,Almond Bar,62,images/sku016.png,False
+ACC123,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC124,SKU020,Mango 1 Liter,710,placeholder.png,True
+ACC124,SKU016,Almond Bar,50,,True
+ACC124,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC124,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC124,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC124,SKU024,CHOCOLATE SANDWICH,85,images/sku024.png,False
+ACC124,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC124,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC124,SKU006,Mint Cone,115,images/sku006.png,False
+ACC126,SKU015,Kulfi,70,images/sku015.png,True
+ACC126,SKU017,Berry Lolly,56,images/sku017.png,True
+ACC126,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC126,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC126,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC126,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC126,SKU009,Mango Cup,68,images/sku009.png,True
+ACC126,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC126,SKU006,Mint Cone,115,images/sku006.png,True
+ACC126,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC126,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC126,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC126,SKU016,Almond Bar,50,images/sku016.png,True
+ACC126,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC126,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC127,SKU020,Mango1Liter,781,placeholder.png,True
+ACC127,SKU007,Vanilla Cup,80,images/sku007.png,False
+ACC127,SKU019,Chocolate 1 Liter,643,,True
+ACC127,SKU010,CookiesandCreamCup,90,images/sku010.png,False
+ACC127,SKU021,NEAPOLITAN 1.5 LITER,720,images/sku021.png,True
+ACC127,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC127,SKU012,Mango Lolly,50,,True
+ACC127,SKU023,VANILLA SANDWICH,84,images/sku023.png,True
+ACC127,SKU011,Butterscotch Cup,131,placeholder.png,True
+ACC127,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC127,SKU009,MangoCup,106,,True
+ACC127,SKU015,Kulfi,56,,True
+ACC127,SKU006,Mint Cone,115,images/sku006.png,True
+ACC127,SKU016,ALMOND BAR,50,placeholder.png,True
+ACC127,SKU001,Chocolate Cone,131,placeholder.png,True
+ACC127,SKU018,Vanilla 1 Liter,868,images/sku018.png,False
+ACC127,SKU003,Vanilla Cone,88,,False
+ACC128,SKU023,Vanilla Sandwich,131,images/sku023.png,True
+ACC128,SKU024,ChocolateSandwich,93,images/sku024.png,True
+ACC128,SKU009,MANGO CUP,85,,True
+ACC128,SKU014,Chocolate Bar,55,,True
+ACC128,SKU006,MintCone,103,images/sku006.png,True
+ACC128,SKU008,Chocolate Cup,106,images/sku008.png,True
+ACC128,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC128,SKU011,BUTTERSCOTCH CUP,115,images/sku011.png,True
+ACC128,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC128,SKU015,Kulfi,87,placeholder.png,True
+ACC128,SKU020,Mango1Liter,781,images/sku020.png,True
+ACC128,SKU019,Chocolate 1 Liter,715,,True
+ACC128,SKU007,Vanilla Cup,100,images/sku007.png,True
+ACC128,SKU001,ChocolateCone,84,images/sku001.png,True
+ACC128,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC128,SKU017,Berry Lolly,63,images/sku017.png,True
+ACC128,SKU003,VANILLA CONE,99,images/sku003.png,False
+ACC128,SKU013,Orange Lolly,70,images/sku013.png,True
+ACC129,SKU006,Mint Cone,103,images/sku006.png,False
+ACC129,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC129,SKU009,Mango Cup,76,placeholder.png,True
+ACC129,SKU015,Kulfi,63,images/sku015.png,False
+ACC129,SKU007,Vanilla Cup,80,images/sku007.png,False
+ACC129,SKU014,ChocolateBar,55,images/sku014.png,True
+ACC129,SKU017,BERRY LOLLY,77,,False
+ACC129,SKU016,Almond Bar,55,images/sku016.png,True
+ACC129,SKU012,MangoLolly,55,placeholder.png,True
+ACC129,SKU024,ChocolateSandwich,85,placeholder.png,False
+ACC129,SKU013,Orange Lolly,87,,True
+ACC129,SKU005,Pistachio Cone,121,,True
+ACC129,SKU003,Vanilla Cone,137,images/sku003.png,True
+ACC133,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC133,SKU007,VanillaCup,80,images/sku007.png,True
+ACC133,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC133,SKU016,Almond Bar,45,,False
+ACC133,SKU019,Chocolate 1 Liter,643,images/sku019.png,True
+ACC133,SKU023,VANILLA SANDWICH,105,,True
+ACC133,SKU024,Chocolate Sandwich,85,placeholder.png,False
+ACC133,SKU011,Butterscotch Cup,84,images/sku011.png,True
+ACC133,SKU008,Chocolate Cup,68,images/sku008.png,True
+ACC133,SKU015,Kulfi,87,images/sku015.png,True
+ACC133,SKU006,Mint Cone,115,images/sku006.png,True
+ACC133,SKU021,NEAPOLITAN 1.5 LITER,720,placeholder.png,False
+ACC133,SKU010,Cookies and Cream Cup,100,images/sku010.png,False
+ACC133,SKU009,Mango Cup,85,,True
+ACC133,SKU020,Mango 1 Liter,781,,True
+ACC133,SKU012,MangoLolly,50,images/sku012.png,True
+ACC133,SKU001,Chocolate Cone,131,images/sku001.png,True
+ACC133,SKU005,Pistachio Cone,108,images/sku005.png,True
+ACC133,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC136,SKU006,Mint Cone,103,images/sku006.png,True
+ACC136,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC136,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC136,SKU016,Almond Bar,55,images/sku016.png,True
+ACC136,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC136,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC136,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC136,SKU020,Mango 1 Liter,887,images/sku020.png,True
+ACC136,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC136,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC136,SKU015,Kulfi,63,images/sku015.png,True
+ACC136,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC136,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC138,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC138,SKU023,Vanilla Sandwich,131,placeholder.png,True
+ACC138,SKU009,Mango Cup,85,images/sku009.png,True
+ACC138,SKU012,Mango Lolly,45,images/sku012.png,True
+ACC138,SKU016,AlmondBar,55,images/sku016.png,True
+ACC138,SKU024,CHOCOLATE SANDWICH,93,placeholder.png,True
+ACC138,SKU021,Neapolitan 1.5 Liter,792,placeholder.png,True
+ACC138,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC138,SKU015,Kulfi,70,images/sku015.png,True
+ACC138,SKU001,Chocolate Cone,94,images/sku001.png,True
+ACC138,SKU020,Mango 1 Liter,639,images/sku020.png,True
+ACC138,SKU014,Chocolate Bar,55,placeholder.png,True
+ACC138,SKU010,CookiesandCreamCup,100,images/sku010.png,True
+ACC138,SKU019,Chocolate 1 Liter,715,,True
+ACC140,SKU015,Kulfi,56,,False
+ACC140,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC140,SKU016,Almond Bar,50,,True
+ACC140,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC140,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC140,SKU024,Chocolate Sandwich,68,images/sku024.png,True
+ACC140,SKU011,Butterscotch Cup,105,images/sku011.png,False
+ACC140,SKU017,Berry Lolly,70,,True
+ACC140,SKU010,Cookies and Cream Cup,110,placeholder.png,True
+ACC140,SKU023,Vanilla Sandwich,84,,True
+ACC140,SKU006,Mint Cone,143,images/sku006.png,True
+ACC140,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC140,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC140,SKU002,StrawberryCone,105,images/sku002.png,True
+ACC140,SKU022,Praline 1 Liter,881,images/sku022.png,True
+ACC140,SKU013,ORANGE LOLLY,77,,False
+ACC141,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC141,SKU006,Mint Cone,92,images/sku006.png,True
+ACC141,SKU009,Mango Cup,85,images/sku009.png,True
+ACC141,SKU011,Butterscotch Cup,105,,False
+ACC141,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC141,SKU007,Vanilla Cup,64,images/sku007.png,True
+ACC141,SKU016,Almond Bar,50,images/sku016.png,True
+ACC141,SKU001,Chocolate Cone,105,images/sku001.png,False
+ACC141,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,False
+ACC141,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC141,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC141,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC141,SKU003,Vanilla Cone,99,images/sku003.png,True
+ACC143,SKU006,Mint Cone,103,images/sku006.png,True
+ACC143,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC143,SKU015,Kulfi,70,images/sku015.png,False
+ACC143,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC143,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC143,SKU009,Mango Cup,85,images/sku009.png,True
+ACC143,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC143,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC143,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC143,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC143,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC143,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC143,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC143,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC143,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC144,SKU014,Chocolate Bar,55,images/sku014.png,False
+ACC144,SKU015,Kulfi,70,images/sku015.png,True
+ACC144,SKU012,Mango Lolly,45,images/sku012.png,True
+ACC144,SKU021,Neapolitan 1.5 Liter,720,,False
+ACC144,SKU019,Chocolate 1 Liter,643,placeholder.png,True
+ACC144,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC144,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC144,SKU007,VANILLA CUP,80,images/sku007.png,True
+ACC144,SKU006,MINT CONE,115,images/sku006.png,True
+ACC144,SKU010,COOKIES AND CREAM CUP,110,images/sku010.png,True
+ACC144,SKU009,Mango Cup,93,images/sku009.png,False
+ACC144,SKU022,Praline 1 Liter,881,images/sku022.png,False
+ACC144,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC146,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC146,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC146,SKU016,Almond Bar,62,images/sku016.png,True
+ACC146,SKU008,Chocolate Cup,85,images/sku008.png,False
+ACC146,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC146,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC146,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC146,SKU010,Cookies and Cream Cup,90,placeholder.png,True
+ACC146,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,False
+ACC146,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC146,SKU015,Kulfi,70,images/sku015.png,True
+ACC146,SKU018,Vanilla 1 Liter,625,images/sku018.png,True
+ACC147,SKU009,Mango Cup,85,images/sku009.png,False
+ACC147,SKU021,Neapolitan 1.5 Liter,720,placeholder.png,True
+ACC147,SKU012,Mango Lolly,55,,True
+ACC147,SKU024,Chocolate Sandwich,85,,True
+ACC147,SKU020,Mango 1 Liter,639,placeholder.png,True
+ACC147,SKU014,Chocolate Bar,55,placeholder.png,False
+ACC147,SKU008,CHOCOLATE CUP,68,,True
+ACC147,SKU001,CHOCOLATE CONE,131,images/sku001.png,True
+ACC147,SKU017,BERRY LOLLY,87,images/sku017.png,True
+ACC147,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC147,SKU015,Kulfi,70,images/sku015.png,True
+ACC147,SKU019,Chocolate 1 Liter,715,,True
+ACC147,SKU016,Almond Bar,50,,False
+ACC147,SKU007,VANILLA CUP,100,images/sku007.png,False
+ACC147,SKU006,Mint Cone,103,images/sku006.png,False
+ACC147,SKU010,Cookies and Cream Cup,80,,True
+ACC147,SKU013,Orange Lolly,56,images/sku013.png,False
+ACC147,SKU005,Pistachio Cone,148,images/sku005.png,True
+ACC147,SKU003,VanillaCone,137,images/sku003.png,True
+ACC150,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC150,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC150,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC150,SKU016,Almond Bar,50,images/sku016.png,True
+ACC150,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC150,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC150,SKU006,Mint Cone,115,images/sku006.png,True
+ACC150,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC150,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC150,SKU015,Kulfi,70,images/sku015.png,True
+ACC152,SKU008,Chocolate Cup,106,,True
+ACC152,SKU014,Chocolate Bar,55,,True
+ACC152,SKU009,Mango Cup,85,,True
+ACC152,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC152,SKU017,Berry Lolly,70,placeholder.png,True
+ACC152,SKU011,BUTTERSCOTCH CUP,94,images/sku011.png,True
+ACC152,SKU020,Mango1Liter,639,images/sku020.png,True
+ACC152,SKU006,Mint Cone,126,images/sku006.png,True
+ACC152,SKU012,MANGO LOLLY,45,images/sku012.png,True
+ACC152,SKU007,Vanilla Cup,80,,True
+ACC152,SKU003,VANILLA CONE,110,images/sku003.png,True
+ACC152,SKU013,Orange Lolly,70,,True
+ACC153,SKU019,Chocolate1Liter,786,images/sku019.png,True
+ACC153,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC153,SKU015,Kulfi,77,placeholder.png,False
+ACC153,SKU009,MangoCup,76,placeholder.png,False
+ACC153,SKU021,NEAPOLITAN 1.5 LITER,576,images/sku021.png,True
+ACC153,SKU017,Berry Lolly,63,images/sku017.png,False
+ACC153,SKU023,Vanilla Sandwich,131,,True
+ACC153,SKU012,Mango Lolly,62,images/sku012.png,True
+ACC153,SKU016,Almond Bar,50,images/sku016.png,False
+ACC153,SKU011,ButterscotchCup,105,images/sku011.png,True
+ACC153,SKU014,Chocolate Bar,68,images/sku014.png,True
+ACC153,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC153,SKU018,Vanilla 1 Liter,695,images/sku018.png,True
+ACC153,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC154,SKU007,Vanilla Cup,64,,True
+ACC154,SKU011,ButterscotchCup,131,images/sku011.png,True
+ACC154,SKU006,Mint Cone,143,placeholder.png,True
+ACC154,SKU021,NEAPOLITAN 1.5 LITER,720,,True
+ACC154,SKU009,MangoCup,76,images/sku009.png,False
+ACC154,SKU016,Almond Bar,55,,True
+ACC154,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC154,SKU015,Kulfi,77,,False
+ACC154,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC154,SKU012,Mango Lolly,55,images/sku012.png,True
+ACC154,SKU014,CHOCOLATE BAR,68,images/sku014.png,True
+ACC154,SKU020,Mango1Liter,887,images/sku020.png,True
+ACC154,SKU024,CHOCOLATE SANDWICH,76,images/sku024.png,True
+ACC154,SKU019,CHOCOLATE 1 LITER,893,,True
+ACC154,SKU008,Chocolate Cup,93,images/sku008.png,True
+ACC154,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC154,SKU005,Pistachio Cone,148,images/sku005.png,False
+ACC154,SKU013,Orange Lolly,70,images/sku013.png,True
+ACC155,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC155,SKU010,Cookies and Cream Cup,80,images/sku010.png,True
+ACC155,SKU021,Neapolitan1.5Liter,720,images/sku021.png,True
+ACC155,SKU009,Mango Cup,85,images/sku009.png,True
+ACC155,SKU014,Chocolate Bar,68,images/sku014.png,True
+ACC155,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC155,SKU011,Butterscotch Cup,105,placeholder.png,True
+ACC155,SKU015,Kulfi,70,images/sku015.png,True
+ACC155,SKU006,Mint Cone,115,images/sku006.png,True
+ACC155,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC155,SKU016,Almond Bar,50,images/sku016.png,True
+ACC155,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC155,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC157,SKU001,CHOCOLATE CONE,105,,True
+ACC157,SKU024,Chocolate Sandwich,68,images/sku024.png,True
+ACC157,SKU014,CHOCOLATE BAR,55,images/sku014.png,True
+ACC157,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC157,SKU016,Almond Bar,50,images/sku016.png,True
+ACC157,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC157,SKU023,Vanilla Sandwich,115,images/sku023.png,True
+ACC157,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC157,SKU006,Mint Cone,115,images/sku006.png,True
+ACC157,SKU011,Butterscotch Cup,115,images/sku011.png,True
+ACC157,SKU009,Mango Cup,85,images/sku009.png,True
+ACC157,SKU007,Vanilla Cup,80,images/sku007.png,False
+ACC157,SKU015,Kulfi,70,images/sku015.png,True
+ACC157,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC157,SKU018,Vanilla 1 Liter,695,images/sku018.png,False
+ACC159,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC159,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC159,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC159,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC159,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC159,SKU016,Almond Bar,50,images/sku016.png,True
+ACC159,SKU015,Kulfi,70,images/sku015.png,True
+ACC159,SKU007,Vanilla Cup,88,images/sku007.png,True
+ACC159,SKU010,Cookies and Cream Cup,110,,True
+ACC159,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC159,SKU009,Mango Cup,85,images/sku009.png,True
+ACC160,SKU019,Chocolate 1 Liter,572,images/sku019.png,False
+ACC160,SKU006,MintCone,126,placeholder.png,True
+ACC160,SKU001,Chocolate Cone,131,placeholder.png,True
+ACC160,SKU012,Mango Lolly,45,images/sku012.png,True
+ACC160,SKU016,Almond Bar,50,images/sku016.png,False
+ACC160,SKU015,Kulfi,70,images/sku015.png,True
+ACC160,SKU014,CHOCOLATE BAR,49,images/sku014.png,True
+ACC160,SKU017,BerryLolly,70,images/sku017.png,False
+ACC160,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC160,SKU010,Cookies and Cream Cup,80,images/sku010.png,False
+ACC160,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC160,SKU011,ButterscotchCup,84,images/sku011.png,True
+ACC160,SKU007,VanillaCup,64,images/sku007.png,True
+ACC160,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,False
+ACC160,SKU024,Chocolate Sandwich,93,images/sku024.png,False
+ACC160,SKU020,Mango 1 Liter,781,placeholder.png,True
+ACC160,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC161,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC161,SKU009,Mango Cup,85,images/sku009.png,False
+ACC161,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC161,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC161,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC161,SKU015,Kulfi,70,images/sku015.png,True
+ACC161,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC161,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC161,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC161,SKU006,Mint Cone,115,images/sku006.png,True
+ACC161,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC162,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC162,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC162,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC162,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC162,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC162,SKU015,Kulfi,70,images/sku015.png,True
+ACC162,SKU016,Almond Bar,50,images/sku016.png,True
+ACC162,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC162,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC162,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC162,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC162,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC163,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC163,SKU009,Mango Cup,85,images/sku009.png,True
+ACC163,SKU006,Mint Cone,126,images/sku006.png,True
+ACC163,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC163,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC163,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC163,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC163,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC163,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC163,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC163,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC163,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC163,SKU014,Chocolate Bar,60,images/sku014.png,True
+ACC163,SKU016,Almond Bar,40,images/sku016.png,True
+ACC163,SKU010,Cookies and Cream Cup,110,images/sku010.png,True
+ACC163,SKU015,Kulfi,77,images/sku015.png,True
+ACC166,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC166,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC166,SKU010,Cookies and Cream Cup,100,images/sku010.png,False
+ACC166,SKU009,Mango Cup,85,images/sku009.png,True
+ACC166,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC166,SKU016,Almond Bar,50,images/sku016.png,True
+ACC166,SKU015,Kulfi,70,images/sku015.png,False
+ACC166,SKU019,Chocolate 1 Liter,643,images/sku019.png,True
+ACC166,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC166,SKU012,Mango Lolly,62,images/sku012.png,True
+ACC166,SKU011,BUTTERSCOTCH CUP,94,images/sku011.png,True
+ACC166,SKU007,Vanilla Cup,80,placeholder.png,True
+ACC166,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC166,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC166,SKU006,Mint Cone,115,images/sku006.png,True
+ACC166,SKU017,Berry Lolly,70,placeholder.png,True
+ACC166,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC166,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC167,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC167,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC167,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC167,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC167,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC167,SKU015,Kulfi,70,images/sku015.png,True
+ACC167,SKU016,Almond Bar,50,images/sku016.png,True
+ACC167,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC167,SKU006,Mint Cone,115,images/sku006.png,True
+ACC167,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC167,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC167,SKU009,Mango Cup,85,images/sku009.png,True
+ACC167,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC168,SKU011,Butterscotch Cup,105,,False
+ACC168,SKU001,Chocolate Cone,105,placeholder.png,True
+ACC168,SKU017,Berry Lolly,70,images/sku017.png,False
+ACC168,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC168,SKU007,VANILLA CUP,80,images/sku007.png,True
+ACC168,SKU023,Vanilla Sandwich,84,,False
+ACC168,SKU006,Mint Cone,115,placeholder.png,True
+ACC168,SKU021,Neapolitan 1.5 Liter,720,placeholder.png,True
+ACC168,SKU015,Kulfi,70,,True
+ACC168,SKU016,Almond Bar,40,images/sku016.png,True
+ACC168,SKU012,Mango Lolly,62,placeholder.png,True
+ACC168,SKU024,Chocolate Sandwich,68,images/sku024.png,True
+ACC168,SKU009,Mango Cup,93,images/sku009.png,True
+ACC168,SKU022,Praline1Liter,705,placeholder.png,True
+ACC171,SKU016,Almond Bar,50,images/sku016.png,True
+ACC171,SKU007,Vanilla Cup,64,images/sku007.png,True
+ACC171,SKU009,Mango Cup,85,images/sku009.png,True
+ACC171,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC171,SKU012,Mango Lolly,62,images/sku012.png,True
+ACC171,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC171,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC171,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC171,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC171,SKU010,Cookies and Cream Cup,80,images/sku010.png,True
+ACC171,SKU006,Mint Cone,115,images/sku006.png,True
+ACC171,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC171,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC171,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC171,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC173,SKU017,Berry Lolly,70,placeholder.png,True
+ACC173,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC173,SKU009,Mango Cup,85,images/sku009.png,True
+ACC173,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC173,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC173,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC173,SKU008,ChocolateCup,85,images/sku008.png,True
+ACC173,SKU016,Almond Bar,50,images/sku016.png,True
+ACC173,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC173,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC173,SKU001,CHOCOLATE CONE,131,images/sku001.png,True
+ACC173,SKU018,Vanilla 1 Liter,868,images/sku018.png,True
+ACC179,SKU023,VANILLA SANDWICH,105,placeholder.png,True
+ACC179,SKU009,Mango Cup,106,images/sku009.png,False
+ACC179,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC179,SKU010,Cookies and Cream Cup,125,images/sku010.png,True
+ACC179,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC179,SKU006,Mint Cone,126,images/sku006.png,True
+ACC179,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC179,SKU015,Kulfi,70,images/sku015.png,True
+ACC179,SKU017,Berry Lolly,56,placeholder.png,True
+ACC179,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC179,SKU016,Almond Bar,50,images/sku016.png,False
+ACC179,SKU019,Chocolate 1 Liter,643,images/sku019.png,True
+ACC179,SKU021,Neapolitan 1.5 Liter,792,images/sku021.png,True
+ACC179,SKU014,CHOCOLATE BAR,55,images/sku014.png,True
+ACC179,SKU011,Butterscotch Cup,105,images/sku011.png,False
+ACC179,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC179,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC179,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC182,SKU021,Neapolitan1.5Liter,720,images/sku021.png,False
+ACC182,SKU008,Chocolate Cup,85,placeholder.png,False
+ACC182,SKU023,Vanilla Sandwich,115,images/sku023.png,True
+ACC182,SKU009,Mango Cup,85,images/sku009.png,True
+ACC182,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC182,SKU012,MANGO LOLLY,50,images/sku012.png,False
+ACC182,SKU019,Chocolate 1 Liter,786,images/sku019.png,True
+ACC182,SKU014,CHOCOLATE BAR,55,images/sku014.png,True
+ACC182,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC182,SKU017,BERRY LOLLY,77,images/sku017.png,True
+ACC182,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC182,SKU022,Praline1Liter,705,placeholder.png,False
+ACC183,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC183,SKU012,Mango Lolly,62,,False
+ACC183,SKU006,MINT CONE,143,images/sku006.png,False
+ACC183,SKU017,BerryLolly,77,images/sku017.png,True
+ACC183,SKU014,Chocolate Bar,68,images/sku014.png,True
+ACC183,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC183,SKU016,AlmondBar,50,,True
+ACC183,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC183,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC183,SKU009,Mango Cup,85,placeholder.png,True
+ACC183,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC183,SKU002,Strawberry Cone,105,images/sku002.png,True
+ACC183,SKU018,Vanilla 1 Liter,868,images/sku018.png,True
+ACC184,SKU010,CookiesandCreamCup,80,,True
+ACC184,SKU008,Chocolate Cup,85,,True
+ACC184,SKU012,Mango Lolly,40,images/sku012.png,False
+ACC184,SKU020,Mango 1 Liter,639,placeholder.png,False
+ACC184,SKU001,ChocolateCone,84,,True
+ACC184,SKU007,VANILLA CUP,80,images/sku007.png,True
+ACC184,SKU023,Vanilla Sandwich,94,images/sku023.png,False
+ACC184,SKU006,MINT CONE,92,placeholder.png,True
+ACC184,SKU017,Berry Lolly,56,images/sku017.png,True
+ACC184,SKU024,Chocolate Sandwich,68,images/sku024.png,False
+ACC185,SKU020,Mango 1 Liter,710,placeholder.png,False
+ACC185,SKU011,Butterscotch Cup,131,images/sku011.png,True
+ACC185,SKU015,KULFI,77,images/sku015.png,False
+ACC185,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,False
+ACC185,SKU006,Mint Cone,115,placeholder.png,True
+ACC185,SKU023,Vanilla Sandwich,115,images/sku023.png,False
+ACC185,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC185,SKU009,Mango Cup,68,images/sku009.png,True
+ACC185,SKU012,Mango Lolly,50,placeholder.png,True
+ACC185,SKU019,Chocolate 1 Liter,643,images/sku019.png,True
+ACC185,SKU007,Vanilla Cup,64,images/sku007.png,True
+ACC185,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC185,SKU001,Chocolate Cone,84,,True
+ACC185,SKU010,Cookies and Cream Cup,100,,True
+ACC185,SKU016,Almond Bar,55,images/sku016.png,True
+ACC185,SKU014,Chocolate Bar,68,images/sku014.png,False
+ACC185,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC185,SKU004,CaramelCone,120,images/sku004.png,True
+ACC186,SKU001,Chocolate Cone,115,images/sku001.png,True
+ACC186,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC186,SKU009,MangoCup,85,images/sku009.png,True
+ACC186,SKU023,VanillaSandwich,131,images/sku023.png,True
+ACC186,SKU006,MINT CONE,103,placeholder.png,False
+ACC186,SKU008,Chocolate Cup,76,,True
+ACC186,SKU015,Kulfi,77,images/sku015.png,True
+ACC186,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC186,SKU011,ButterscotchCup,94,images/sku011.png,True
+ACC186,SKU019,Chocolate 1 Liter,893,images/sku019.png,True
+ACC186,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC186,SKU002,Strawberry Cone,115,images/sku002.png,True
+ACC186,SKU004,CARAMEL CONE,120,images/sku004.png,True
+ACC186,SKU003,Vanilla Cone,121,,True
+ACC188,SKU012,MangoLolly,62,images/sku012.png,True
+ACC188,SKU016,Almond Bar,55,images/sku016.png,True
+ACC188,SKU019,Chocolate 1 Liter,893,,True
+ACC188,SKU023,Vanilla Sandwich,115,placeholder.png,True
+ACC188,SKU014,ChocolateBar,49,images/sku014.png,True
+ACC188,SKU010,Cookies and Cream Cup,100,,True
+ACC188,SKU020,Mango 1 Liter,568,,True
+ACC188,SKU017,BerryLolly,63,images/sku017.png,False
+ACC188,SKU009,Mango Cup,93,placeholder.png,False
+ACC188,SKU008,Chocolate Cup,68,images/sku008.png,True
+ACC188,SKU006,MintCone,115,images/sku006.png,True
+ACC188,SKU024,Chocolate Sandwich,85,placeholder.png,False
+ACC188,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC188,SKU007,Vanilla Cup,80,,False
+ACC189,SKU019,Chocolate 1 Liter,572,images/sku019.png,True
+ACC189,SKU015,KULFI,56,images/sku015.png,True
+ACC189,SKU021,NEAPOLITAN 1.5 LITER,720,placeholder.png,True
+ACC189,SKU024,Chocolate Sandwich,68,,True
+ACC189,SKU012,MANGO LOLLY,50,images/sku012.png,False
+ACC189,SKU014,CHOCOLATE BAR,60,images/sku014.png,True
+ACC189,SKU011,ButterscotchCup,131,images/sku011.png,False
+ACC189,SKU009,Mango Cup,93,images/sku009.png,False
+ACC189,SKU023,VANILLA SANDWICH,105,placeholder.png,False
+ACC189,SKU006,Mint Cone,115,,True
+ACC189,SKU010,COOKIES AND CREAM CUP,100,placeholder.png,True
+ACC189,SKU017,Berry Lolly,70,,False
+ACC189,SKU001,Chocolate Cone,115,placeholder.png,True
+ACC189,SKU007,VanillaCup,80,placeholder.png,True
+ACC189,SKU003,VanillaCone,137,images/sku003.png,True
+ACC189,SKU018,Vanilla 1 Liter,556,,True
+ACC189,SKU013,OrangeLolly,70,placeholder.png,True
+ACC193,SKU009,Mango Cup,85,placeholder.png,True
+ACC193,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC193,SKU024,Chocolate Sandwich,76,images/sku024.png,True
+ACC193,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC193,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC193,SKU016,Almond Bar,55,images/sku016.png,True
+ACC193,SKU015,Kulfi,70,images/sku015.png,True
+ACC193,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC193,SKU014,Chocolate Bar,55,images/sku014.png,False
+ACC193,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC193,SKU005,Pistachio Cone,135,images/sku005.png,True
+ACC194,SKU015,Kulfi,77,images/sku015.png,True
+ACC194,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC194,SKU020,MANGO 1 LITER,781,placeholder.png,True
+ACC194,SKU016,ALMOND BAR,50,images/sku016.png,True
+ACC194,SKU021,NEAPOLITAN 1.5 LITER,792,images/sku021.png,True
+ACC194,SKU023,VanillaSandwich,105,images/sku023.png,True
+ACC194,SKU001,Chocolate Cone,131,images/sku001.png,False
+ACC194,SKU009,Mango Cup,68,,True
+ACC194,SKU012,MANGO LOLLY,62,placeholder.png,True
+ACC194,SKU017,Berry Lolly,87,images/sku017.png,False
+ACC194,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC194,SKU003,Vanilla Cone,99,images/sku003.png,True
+ACC195,SKU007,VANILLA CUP,64,images/sku007.png,True
+ACC195,SKU024,CHOCOLATE SANDWICH,85,images/sku024.png,True
+ACC195,SKU021,NEAPOLITAN 1.5 LITER,720,placeholder.png,True
+ACC195,SKU006,Mint Cone,143,images/sku006.png,False
+ACC195,SKU008,CHOCOLATE CUP,68,placeholder.png,True
+ACC195,SKU009,Mango Cup,76,,True
+ACC195,SKU011,BUTTERSCOTCH CUP,105,,False
+ACC195,SKU015,Kulfi,70,placeholder.png,False
+ACC195,SKU001,ChocolateCone,131,placeholder.png,False
+ACC195,SKU012,Mango Lolly,50,images/sku012.png,False
+ACC195,SKU016,ALMOND BAR,45,,True
+ACC195,SKU020,Mango1Liter,710,images/sku020.png,True
+ACC195,SKU023,Vanilla Sandwich,84,placeholder.png,True
+ACC195,SKU019,Chocolate 1 Liter,572,,False
+ACC195,SKU017,Berry Lolly,77,images/sku017.png,False
+ACC195,SKU010,Cookies and Cream Cup,90,,False
+ACC195,SKU013,OrangeLolly,70,placeholder.png,True
+ACC195,SKU022,Praline 1 Liter,705,images/sku022.png,False
+ACC197,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC197,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC197,SKU009,Mango Cup,85,images/sku009.png,True
+ACC197,SKU021,Neapolitan1.5Liter,576,placeholder.png,True
+ACC197,SKU001,Chocolate Cone,84,images/sku001.png,True
+ACC197,SKU006,Mint Cone,115,images/sku006.png,True
+ACC197,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC197,SKU024,ChocolateSandwich,85,images/sku024.png,True
+ACC197,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC197,SKU019,Chocolate 1 Liter,572,images/sku019.png,True
+ACC197,SKU008,Chocolate Cup,68,images/sku008.png,False
+ACC197,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC197,SKU015,Kulfi,77,images/sku015.png,True
+ACC197,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC202,SKU001,Chocolate Cone,131,images/sku001.png,True
+ACC202,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC202,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,True
+ACC202,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC202,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC202,SKU006,Mint Cone,115,placeholder.png,False
+ACC202,SKU015,KULFI,70,images/sku015.png,False
+ACC202,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC202,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC202,SKU010,Cookies and Cream Cup,80,images/sku010.png,True
+ACC204,SKU015,Kulfi,56,images/sku015.png,True
+ACC204,SKU014,Chocolate Bar,44,images/sku014.png,True
+ACC204,SKU016,Almond Bar,50,images/sku016.png,True
+ACC204,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC204,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC204,SKU007,Vanilla Cup,64,placeholder.png,True
+ACC204,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC204,SKU012,Mango Lolly,50,images/sku012.png,False
+ACC204,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC208,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC208,SKU008,CHOCOLATE CUP,93,images/sku008.png,False
+ACC208,SKU012,Mango Lolly,40,images/sku012.png,True
+ACC208,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC208,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC208,SKU016,Almond Bar,55,,True
+ACC208,SKU001,Chocolate Cone,84,,True
+ACC208,SKU024,Chocolate Sandwich,93,images/sku024.png,False
+ACC208,SKU015,Kulfi,70,images/sku015.png,False
+ACC208,SKU023,Vanilla Sandwich,94,placeholder.png,True
+ACC208,SKU010,CookiesandCreamCup,100,placeholder.png,True
+ACC208,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC208,SKU009,Mango Cup,85,,False
+ACC208,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC210,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC210,SKU015,Kulfi,70,images/sku015.png,True
+ACC210,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC210,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC210,SKU006,Mint Cone,115,images/sku006.png,True
+ACC210,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC210,SKU016,Almond Bar,50,images/sku016.png,True
+ACC210,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC210,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC210,SKU019,Chocolate 1 Liter,786,images/sku019.png,True
+ACC210,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC210,SKU001,Chocolate Cone,105,images/sku001.png,False
+ACC210,SKU009,Mango Cup,85,images/sku009.png,True
+ACC212,SKU006,Mint Cone,115,images/sku006.png,False
+ACC212,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC212,SKU007,Vanilla Cup,64,placeholder.png,True
+ACC212,SKU016,Almond Bar,50,images/sku016.png,True
+ACC212,SKU014,Chocolate Bar,44,images/sku014.png,False
+ACC212,SKU019,CHOCOLATE 1 LITER,572,placeholder.png,True
+ACC212,SKU009,Mango Cup,85,,True
+ACC212,SKU011,ButterscotchCup,131,images/sku011.png,False
+ACC212,SKU021,Neapolitan 1.5 Liter,792,images/sku021.png,True
+ACC212,SKU020,Mango 1 Liter,781,placeholder.png,True
+ACC212,SKU023,VanillaSandwich,105,images/sku023.png,False
+ACC212,SKU008,Chocolate Cup,76,images/sku008.png,True
+ACC212,SKU010,Cookies and Cream Cup,110,images/sku010.png,True
+ACC212,SKU001,Chocolate Cone,105,placeholder.png,True
+ACC212,SKU015,Kulfi,63,,True
+ACC212,SKU022,PRALINE 1 LITER,881,images/sku022.png,True
+ACC214,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC214,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,False
+ACC214,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC214,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC214,SKU011,Butterscotch Cup,94,images/sku011.png,True
+ACC214,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC214,SKU015,Kulfi,87,images/sku015.png,True
+ACC214,SKU016,Almond Bar,50,images/sku016.png,True
+ACC214,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC214,SKU001,CHOCOLATE CONE,94,images/sku001.png,False
+ACC214,SKU012,Mango Lolly,50,images/sku012.png,False
+ACC214,SKU007,VANILLA CUP,72,images/sku007.png,True
+ACC214,SKU020,Mango 1 Liter,568,images/sku020.png,True
+ACC214,SKU009,Mango Cup,106,images/sku009.png,True
+ACC214,SKU023,Vanilla Sandwich,105,placeholder.png,True
+ACC214,SKU006,Mint Cone,103,images/sku006.png,True
+ACC214,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC216,SKU011,Butterscotch Cup,131,images/sku011.png,True
+ACC216,SKU001,Chocolate Cone,84,images/sku001.png,True
+ACC216,SKU020,Mango 1 Liter,639,images/sku020.png,True
+ACC216,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC216,SKU010,COOKIES AND CREAM CUP,100,images/sku010.png,True
+ACC216,SKU015,Kulfi,63,,True
+ACC216,SKU008,Chocolate Cup,85,placeholder.png,False
+ACC216,SKU014,CHOCOLATE BAR,55,images/sku014.png,False
+ACC216,SKU009,MANGO CUP,76,placeholder.png,False
+ACC216,SKU017,BerryLolly,77,images/sku017.png,True
+ACC216,SKU023,VANILLA SANDWICH,131,,True
+ACC216,SKU021,Neapolitan1.5Liter,720,images/sku021.png,True
+ACC216,SKU006,MintCone,103,placeholder.png,True
+ACC216,SKU018,Vanilla 1 Liter,556,,True
+ACC216,SKU022,Praline 1 Liter,564,images/sku022.png,True
+ACC216,SKU002,STRAWBERRY CONE,105,,True
+ACC220,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC220,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC220,SKU012,MANGO LOLLY,62,images/sku012.png,True
+ACC220,SKU006,MintCone,103,,False
+ACC220,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC220,SKU015,Kulfi,70,images/sku015.png,True
+ACC220,SKU009,MangoCup,93,,True
+ACC220,SKU021,Neapolitan1.5Liter,576,images/sku021.png,True
+ACC220,SKU008,Chocolate Cup,85,placeholder.png,True
+ACC220,SKU024,Chocolate Sandwich,106,images/sku024.png,True
+ACC220,SKU017,Berry Lolly,63,images/sku017.png,False
+ACC220,SKU010,CookiesandCreamCup,100,images/sku010.png,True
+ACC220,SKU007,VANILLA CUP,80,images/sku007.png,False
+ACC220,SKU002,STRAWBERRY CONE,105,images/sku002.png,True
+ACC220,SKU013,OrangeLolly,77,images/sku013.png,True
+ACC221,SKU008,ChocolateCup,68,,True
+ACC221,SKU007,VanillaCup,80,images/sku007.png,True
+ACC221,SKU020,MANGO 1 LITER,710,images/sku020.png,True
+ACC221,SKU015,Kulfi,77,,False
+ACC221,SKU016,Almond Bar,45,placeholder.png,True
+ACC221,SKU006,Mint Cone,115,,True
+ACC221,SKU012,MangoLolly,50,images/sku012.png,True
+ACC221,SKU001,ChocolateCone,94,images/sku001.png,True
+ACC221,SKU019,Chocolate 1 Liter,786,placeholder.png,True
+ACC221,SKU011,BUTTERSCOTCH CUP,84,images/sku011.png,True
+ACC221,SKU009,Mango Cup,93,,False
+ACC221,SKU003,Vanilla Cone,137,images/sku003.png,True
+ACC221,SKU022,Praline 1 Liter,564,placeholder.png,True
+ACC221,SKU013,Orange Lolly,70,,False
+ACC223,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC223,SKU014,ChocolateBar,55,placeholder.png,True
+ACC223,SKU007,VanillaCup,88,placeholder.png,True
+ACC223,SKU017,BERRY LOLLY,56,images/sku017.png,False
+ACC223,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC223,SKU006,MintCone,126,,True
+ACC223,SKU024,Chocolate Sandwich,85,placeholder.png,True
+ACC223,SKU009,MANGO CUP,76,,True
+ACC223,SKU010,Cookies and Cream Cup,90,,True
+ACC223,SKU012,Mango Lolly,55,placeholder.png,True
+ACC223,SKU015,Kulfi,70,images/sku015.png,True
+ACC223,SKU011,Butterscotch Cup,131,images/sku011.png,True
+ACC223,SKU022,Praline1Liter,705,images/sku022.png,True
+ACC228,SKU001,Chocolate Cone,105,images/sku001.png,True
+ACC228,SKU010,Cookies and Cream Cup,100,images/sku010.png,True
+ACC228,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC228,SKU009,Mango Cup,85,images/sku009.png,True
+ACC228,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC228,SKU008,Chocolate Cup,85,images/sku008.png,False
+ACC228,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC228,SKU015,Kulfi,70,images/sku015.png,True
+ACC228,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC228,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC228,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC228,SKU017,Berry Lolly,70,images/sku017.png,True
+ACC228,SKU016,Almond Bar,50,images/sku016.png,True
+ACC228,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC228,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC228,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC228,SKU006,Mint Cone,115,images/sku006.png,False
+ACC228,SKU022,Praline 1 Liter,705,images/sku022.png,True
+ACC229,SKU009,Mango Cup,106,images/sku009.png,False
+ACC229,SKU012,MangoLolly,40,,True
+ACC229,SKU001,ChocolateCone,105,images/sku001.png,False
+ACC229,SKU007,VANILLA CUP,80,images/sku007.png,True
+ACC229,SKU019,Chocolate 1 Liter,715,images/sku019.png,True
+ACC229,SKU017,BERRY LOLLY,70,images/sku017.png,True
+ACC229,SKU021,NEAPOLITAN 1.5 LITER,792,placeholder.png,True
+ACC229,SKU015,Kulfi,70,,True
+ACC229,SKU008,Chocolate Cup,85,,True
+ACC229,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC229,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC229,SKU014,Chocolate Bar,60,images/sku014.png,True
+ACC229,SKU024,CHOCOLATE SANDWICH,93,images/sku024.png,True
+ACC229,SKU004,Caramel Cone,108,,True
+ACC229,SKU003,Vanilla Cone,88,,True
+ACC229,SKU022,Praline1Liter,634,images/sku022.png,True
+ACC230,SKU006,Mint Cone,115,images/sku006.png,True
+ACC230,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC230,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC230,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC230,SKU017,Berry Lolly,77,images/sku017.png,True
+ACC230,SKU001,Chocolate Cone,131,images/sku001.png,False
+ACC230,SKU015,Kulfi,70,images/sku015.png,True
+ACC230,SKU021,Neapolitan 1.5 Liter,720,images/sku021.png,True
+ACC230,SKU011,Butterscotch Cup,105,images/sku011.png,True
+ACC230,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC230,SKU010,Cookies and Cream Cup,110,images/sku010.png,True
+ACC230,SKU012,Mango Lolly,50,images/sku012.png,True
+ACC230,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC230,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC230,SKU009,Mango Cup,85,images/sku009.png,True
+ACC230,SKU004,Caramel Cone,120,images/sku004.png,True
+ACC230,SKU003,Vanilla Cone,110,images/sku003.png,True
+ACC232,SKU019,Chocolate 1 Liter,715,,True
+ACC232,SKU021,Neapolitan 1.5 Liter,576,images/sku021.png,True
+ACC232,SKU011,ButterscotchCup,105,images/sku011.png,True
+ACC232,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC232,SKU010,COOKIES AND CREAM CUP,100,,True
+ACC232,SKU020,Mango 1 Liter,710,placeholder.png,True
+ACC232,SKU017,Berry Lolly,70,images/sku017.png,False
+ACC232,SKU015,Kulfi,87,,True
+ACC232,SKU007,Vanilla Cup,88,images/sku007.png,True
+ACC232,SKU003,VANILLA CONE,88,images/sku003.png,False
+ACC232,SKU022,Praline 1 Liter,775,placeholder.png,False
+ACC233,SKU008,Chocolate Cup,76,placeholder.png,True
+ACC233,SKU001,ChocolateCone,94,images/sku001.png,True
+ACC233,SKU006,Mint Cone,92,,True
+ACC233,SKU017,BERRY LOLLY,56,,False
+ACC233,SKU021,Neapolitan 1.5 Liter,900,images/sku021.png,False
+ACC233,SKU012,Mango Lolly,55,images/sku012.png,False
+ACC233,SKU007,VanillaCup,88,placeholder.png,True
+ACC233,SKU019,Chocolate1Liter,572,,False
+ACC233,SKU009,MANGO CUP,76,,True
+ACC233,SKU015,KULFI,56,images/sku015.png,True
+ACC233,SKU020,MANGO 1 LITER,710,placeholder.png,True
+ACC233,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC233,SKU011,ButterscotchCup,105,images/sku011.png,True
+ACC233,SKU023,Vanilla Sandwich,105,images/sku023.png,True
+ACC233,SKU010,COOKIES AND CREAM CUP,125,images/sku010.png,False
+ACC233,SKU016,AlmondBar,40,,True
+ACC233,SKU014,Chocolate Bar,49,placeholder.png,True
+ACC233,SKU018,Vanilla1Liter,695,,False
+ACC233,SKU013,Orange Lolly,70,,True
+ACC233,SKU004,Caramel Cone,132,images/sku004.png,True
+ACC233,SKU003,Vanilla Cone,137,,True
+ACC236,SKU009,Mango Cup,85,images/sku009.png,True
+ACC236,SKU001,Chocolate Cone,105,images/sku001.png,False
+ACC236,SKU014,Chocolate Bar,55,images/sku014.png,True
+ACC236,SKU017,Berry Lolly,77,images/sku017.png,True
+ACC236,SKU024,Chocolate Sandwich,85,images/sku024.png,True
+ACC236,SKU007,Vanilla Cup,80,images/sku007.png,True
+ACC236,SKU006,Mint Cone,126,images/sku006.png,True
+ACC236,SKU016,Almond Bar,50,images/sku016.png,True
+ACC236,SKU008,Chocolate Cup,85,images/sku008.png,True
+ACC236,SKU019,Chocolate 1 Liter,715,images/sku019.png,False
+ACC236,SKU020,Mango 1 Liter,710,images/sku020.png,True
+ACC236,SKU013,Orange Lolly,70,images/sku013.png,True

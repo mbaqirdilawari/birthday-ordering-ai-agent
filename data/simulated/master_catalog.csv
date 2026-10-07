@@ -1,0 +1,25 @@
+sku_id,product_name,category,list_price_pkr,status,official_image
+SKU001,Chocolate Cone,Cone,105,Active,images/sku001.png
+SKU002,Strawberry Cone,Cone,105,Discontinued,images/sku002.png
+SKU003,Vanilla Cone,Cone,110,Discontinued,images/sku003.png
+SKU004,Caramel Cone,Cone,120,Discontinued,images/sku004.png
+SKU005,Pistachio Cone,Cone,135,Discontinued,images/sku005.png
+SKU006,Mint Cone,Cone,115,Active,images/sku006.png
+SKU007,Vanilla Cup,Cup,80,Active,images/sku007.png
+SKU008,Chocolate Cup,Cup,85,Active,images/sku008.png
+SKU009,Mango Cup,Cup,85,Active,images/sku009.png
+SKU010,Cookies and Cream Cup,Cup,100,Active,images/sku010.png
+SKU011,Butterscotch Cup,Cup,105,Active,images/sku011.png
+SKU012,Mango Lolly,Stick,50,Active,images/sku012.png
+SKU013,Orange Lolly,Stick,70,Discontinued,images/sku013.png
+SKU014,Chocolate Bar,Stick,55,Active,images/sku014.png
+SKU015,Kulfi,Stick,70,Active,images/sku015.png
+SKU016,Almond Bar,Stick,50,Active,images/sku016.png
+SKU017,Berry Lolly,Stick,70,Active,images/sku017.png
+SKU018,Vanilla 1 Liter,Tub,695,Discontinued,images/sku018.png
+SKU019,Chocolate 1 Liter,Tub,715,Active,images/sku019.png
+SKU020,Mango 1 Liter,Tub,710,Active,images/sku020.png
+SKU021,Neapolitan 1.5 Liter,Tub,720,Active,images/sku021.png
+SKU022,Praline 1 Liter,Tub,705,Discontinued,images/sku022.png
+SKU023,Vanilla Sandwich,Sandwich,105,Active,images/sku023.png
+SKU024,Chocolate Sandwich,Sandwich,85,Active,images/sku024.png

@@ -1,0 +1,5 @@
+bundle_id,name,serves_children,contents,contents_ids,price_pkr
+B1,Mini Party Pack,10,5 x Mango Ice Lolly; 5 x Orange Ice Lolly; 10 x Vanilla Cup,P04:5;P05:5;P03:10,1350
+B2,Classic Party Pack,20,10 x Chocolate Cone; 10 x Chocolate Bar; 20 x Vanilla Cup,P01:10;P06:10;P03:20,3600
+B3,Mega Party Pack,35,15 x Chocolate Cone; 10 x Strawberry Cone; 15 x Chocolate Bar; 20 x Cookies and Cream Cup; 2 x Family Tub Vanilla 1 Liter,P01:15;P02:10;P06:15;P08:20;P09:2,7800
+B4,Family Celebration Pack,15,10 x Kulfi Stick; 10 x Cookies and Cream Cup; 1 x Family Tub Chocolate 1 Liter,P07:10;P08:10;P10:1,2700
