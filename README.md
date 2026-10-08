@@ -178,19 +178,26 @@ pip install -r requirements.txt
 python app.py                      # web chat at http://127.0.0.1:5000 (demo mode)
 ```
 
-To use Claude instead of demo mode, set an API key first (**Terminal**):
+To use Claude instead of demo mode, give the agent an API key. The easiest way is a `.env` file (**Terminal**):
 
 ```bash
-export ANTHROPIC_API_KEY="your-key-here"     # on Windows: set ANTHROPIC_API_KEY=your-key-here
+cp .env.example .env      # on Windows: copy .env.example .env
+```
+
+Then open `.env` in any text editor (**File: `.env`**) and paste your key after `ANTHROPIC_API_KEY=`. You can also change `AGENT_MODEL` there. The `.env` file is listed in `.gitignore`, so your key is never uploaded to GitHub. Then start the app as before (**Terminal**):
+
+```bash
 python app.py
 ```
+
+Setting the key in the terminal still works too, and takes priority over the file: `export ANTHROPIC_API_KEY="your-key-here"` (on Windows: `set ANTHROPIC_API_KEY=your-key-here`).
 
 Other commands (**Terminal**):
 
 ```bash
 python run_chat.py      # chat in the terminal instead of the browser
 python run_all.py       # rebuild all data, tables, charts, the Excel model and the sample transcript
-python -m pytest        # run the 20 tests
+python -m pytest        # run the 23 tests
 ```
 
 ## 7. Repository structure
@@ -213,7 +220,7 @@ birthday-ordering-ai-agent/
 ├── excel/                        # Excel business case (live formulas)
 ├── outputs/                      # charts, tables, sample transcript (guide: outputs/README.md)
 ├── scripts/                      # data simulation, charts, transcript
-└── tests/                        # 20 tests
+└── tests/                        # 23 tests
 ```
 
 ## 8. Glossary

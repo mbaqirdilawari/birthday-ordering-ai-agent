@@ -17,6 +17,9 @@ from pathlib import Path
 from flask import Flask, jsonify, request, send_from_directory
 
 from agent import OrderingSystem, make_agent
+from agent.settings import load_env
+
+load_env()  # read ANTHROPIC_API_KEY and AGENT_MODEL from .env if it exists
 
 WEB = Path(__file__).resolve().parent / "agent" / "web"
 app = Flask(__name__)
