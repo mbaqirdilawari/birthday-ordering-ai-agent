@@ -190,7 +190,7 @@ Other commands (**Terminal**):
 ```bash
 python run_chat.py      # chat in the terminal instead of the browser
 python run_all.py       # rebuild all data, tables, charts, the Excel model and the sample transcript
-python -m pytest        # run the 17 tests
+python -m pytest        # run the 20 tests
 ```
 
 ## 7. Repository structure
@@ -213,7 +213,7 @@ birthday-ordering-ai-agent/
 ├── excel/                        # Excel business case (live formulas)
 ├── outputs/                      # charts, tables, sample transcript (guide: outputs/README.md)
 ├── scripts/                      # data simulation, charts, transcript
-└── tests/                        # 17 tests
+└── tests/                        # 20 tests
 ```
 
 ## 8. Glossary

@@ -120,3 +120,32 @@ def test_claude_agent_runs_tools_and_returns_results(system):
     tool_result = client.calls[1]["messages"][-1]["content"][0]
     assert tool_result["type"] == "tool_result" and tool_result["tool_use_id"] == "tool_1"
     assert {t["name"] for t in client.calls[0]["tools"]} >= {"check_availability", "create_booking"}
+
+
+def test_demo_agent_cancels_a_booking(system):
+    out = book(system)
+    stock_after_booking = dict(system.stock)
+    agent = DemoAgent(system)
+    reply, activity = agent.reply(f"Please cancel {out['booking_id']}")
+    assert activity[0]["tool"] == "cancel_booking"
+    assert "cancelled" in reply.lower()
+    assert system.bookings[out["booking_id"]]["status"] == "Cancelled"
+    assert system.stock != stock_after_booking  # stock was released
+    reply, _ = agent.reply(f"cancel {out['booking_id']}")  # cancelling twice is safe
+    assert "cancelled" in reply.lower()
+
+
+def test_demo_agent_handles_unserved_area(system):
+    agent = DemoAgent(system)
+    agent.reply("20 kids on 17 October")
+    reply, activity = agent.reply("Evening please, we live in Hyderabad")
+    assert "area" not in agent.d and not activity  # nothing is checked or booked for an unknown area
+    assert "area of Karachi" in reply  # the agent asks again
+    reply, _ = agent.reply("Then Clifton please")
+    assert "trike is free" in reply
+
+
+def test_unserved_area_reply_lists_served_areas(system):
+    out = system.check_availability("Hyderabad", "2026-10-17", SLOTS[2])
+    assert out["available"] is False and "do not serve" in out["reason"]
+    assert "Clifton" in out["service_areas"]
