@@ -211,7 +211,7 @@ birthday-ordering-ai-agent/
 │   └── excel_model.py            # builds the Excel version
 ├── data/simulated/               # SIMULATED data only
 ├── excel/                        # Excel business case (live formulas)
-├── outputs/                      # charts, tables, sample transcript
+├── outputs/                      # charts, tables, sample transcript (guide: outputs/README.md)
 ├── scripts/                      # data simulation, charts, transcript
 └── tests/                        # 14 tests
 ```
