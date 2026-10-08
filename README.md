@@ -11,7 +11,7 @@ Plus two companion tools from the same internship: a **listing quality checker**
 ![Flask](https://img.shields.io/badge/Flask-web%20chat-000000?logo=flask&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-data%20quality-150458?logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-formula%20model-217346?logo=microsoftexcel&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-14%20passing-2a78d6)
+[![tests](https://github.com/mbaqirdilawari/birthday-ordering-ai-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/mbaqirdilawari/birthday-ordering-ai-agent/actions/workflows/tests.yml)
 
 > [!IMPORTANT]
 > **All data in this repository is simulated.** Products, prices, distributors, stock, chain accounts, sales and costs are invented, and exist only to show how the system works.
